@@ -1,0 +1,17 @@
+{
+	"result" : "success",
+	"content" : [
+		{
+			"name" : "",
+			"address" : "",
+			"lat" : 0,
+			"lng" : 0
+		},
+		{
+			"name" : "",
+			"address" : "",
+			"lat" : 0,
+			"lng" : 0
+		}
+	]
+}
